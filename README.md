@@ -13,7 +13,7 @@
 
 #### Вот некоторые мои проекты:
 
-Проект | Описание | Технолигии
+Проект | Описание | Технологии
 ------ | -------- | ----------
 [What To Watch](https://github.com/nikolay-komarov/26632-what-to-watch-4) | Приложение для просмотра фильмов | React, Redux, TypeScript, Jest, Enzyme, Webpack
 [Cinemaddict](https://github.com/nikolay-komarov/26632-cinemaddict-10) | Сервис для фанатов большого кино | JavaScript (ES6), Chart.js, Moment.js, Webpack
