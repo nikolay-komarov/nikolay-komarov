@@ -7,7 +7,7 @@
 * HTML5, CSS, LESS, БЭМ;
 * Zeplin, Adobe Photoshop, Figma;
 * JavaScript (ES5/ES6), TypeScript;
-* React, Redux;
+* React, Redux/MobX;
 * Jest, Enzyme;
 * Gulp, Webpack.
 
