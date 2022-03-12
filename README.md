@@ -4,10 +4,10 @@
 
 #### В своих проектах я использовал:
 
-* HTML5, CSS, LESS, БЭМ;
+* HTML5, CSS, LESS/Sass, БЭМ;
 * Zeplin, Adobe Photoshop, Figma;
-* JavaScript (ES5/ES6), TypeScript;
-* React, Redux/MobX;
+* JavaScript, TypeScript;
+* React, Redux, MobX;
 * Jest, Enzyme;
 * Gulp, Webpack.
 
