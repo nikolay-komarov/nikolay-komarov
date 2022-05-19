@@ -4,12 +4,14 @@
 
 #### В своих проектах я использовал:
 
-* HTML5, CSS, LESS/Sass, БЭМ;
-* Zeplin, Adobe Photoshop, Figma;
-* JavaScript, TypeScript;
-* React, Redux, MobX;
-* Jest, Enzyme;
-* Gulp, Webpack.
+* HTML, CSS/SASS/LESS, Figma
+* JavaScript/TypeScript
+* React
+* MobX, Redux
+* Material-UI, styled-components
+* Jest, Enzym
+* Gulp, Webpack, Docker
+
 
 #### Вот некоторые мои проекты:
 
